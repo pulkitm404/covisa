@@ -1,0 +1,55 @@
+.links
+{
+  text-decoration: none;
+  color: white;
+}
+.links:hover
+{
+  text-decoration: none;
+  color: white;
+}
+
+
+.bg-1
+{
+  background:#025E72;
+  /*  linear-gradient(241deg, #025E72 0%, #025E72 0%, #012F39 100%) 0% 0% no-repeat padding-box;
+ */  min-height: 100vh;
+  color: white;
+
+}
+
+.bg-2
+{
+  min-height: 100vh;
+  background-color: white;
+}
+
+.mainnav
+{
+  background: #025E72;
+  min-height: 2vh;
+  opacity: 1;
+}
+
+.navlink
+{
+  color: white;
+  font-size: calc(6px + 2vmin);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+
+}
+
+.logo {
+  height: auto;
+  width: auto;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #025E72DB;
+  padding: 3px;
+  padding-right: 1%;
+  padding-left: 0%;
+  margin-left: 0em;
+  box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.1);
+}
